@@ -63,7 +63,7 @@
 					]
 				},
 				"url": {
-					"raw": "http://162.55.220.72:5005/user_info_3\n",
+					"raw": "http://162.55.220.72:5005/user_info_3",
 					"protocol": "http",
 					"host": [
 						"162",
@@ -272,7 +272,7 @@
 					]
 				},
 				"url": {
-					"raw": "http://162.55.220.72:5005/user_info_2\n",
+					"raw": "http://162.55.220.72:5005/user_info_2",
 					"protocol": "http",
 					"host": [
 						"162",
